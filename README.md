@@ -12,4 +12,4 @@ change the behaviour of the microcontroller?
 
 3) How can we capture and process this change in behavior to get to data that we usually dont see?
 
-4) Rob a bank... (Not assigned by my university)
+4) Rob a bank... (Not assigned by university)
